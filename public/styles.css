@@ -1,0 +1,21 @@
+:root {
+	--bg-image:url('/assets/images/utrechtnight2gray.png');
+	--bg-color: #2e3d47;
+	--border-color: gray;
+	--font-color:gray;
+	--font-family: 'monospace';
+	--link-color: #68aabf; 
+	--button-bg-color: #777eaf;
+	--font-size: 13px;
+	--min-font-size: 14px;
+}
+body {
+	background-image:var(--bg-image);
+	background-size: cover;
+	background-attachment: fixed;
+	background-color: black;
+	background-repeat: no-repeat;
+	background-position: center top;
+	color: white;
+	font-family: var(--font-family);
+}

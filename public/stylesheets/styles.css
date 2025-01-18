@@ -1,0 +1,42 @@
+:root {
+	--bg-image:url('/assets/images/utrechtnight2gray.png');
+	--bg-color: #2e3d47;
+	--border-color: gray;
+	--font-color:gray;
+	--font-family: 'monospace';
+	--link-color: #23f6cc; 
+	--button-bg-color: #777eaf;
+	--font-size: 1.75rem;
+	--min-font-size: 14px;
+}
+html {
+	font-size: 62.5%;
+}
+body {
+	background-attachment: fixed;
+	background-color: black;
+	color: white;
+	font-family: var(--font-family);
+	font-size: var(--font-size);
+}
+h1 {
+	text-align: center;
+	margin-bottom: 15px;
+	padding: none;
+}
+ul li a {
+	color: var(--link-color);
+	font-weight: bold;
+	margin: 5px;
+	text-decoration: none;
+}
+
+.container {
+	max-width: 60%;
+	margin: 0 auto;
+}
+
+.header-split {
+	max-width: 50%;
+      }
+  
