@@ -6,14 +6,42 @@
     <description>Recent content on Apollos Shrine</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jan 2025 15:11:48 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 12:17:08 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First</title>
-      <link>http://localhost:1313/posts/my-first/</link>
-      <pubDate>Fri, 17 Jan 2025 15:11:48 -0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first/</guid>
-      <description></description>
+      <title>On Propoganda</title>
+      <link>http://localhost:1313/posts/propoganda/</link>
+      <pubDate>Thu, 20 Feb 2025 12:17:08 -0800</pubDate>
+      <guid>http://localhost:1313/posts/propoganda/</guid>
+      <description>&lt;p&gt;I don&amp;rsquo;t really believe in truth, but I do really like philosophy.&#xA;This yields an awkward situation where all the writers I am reading are searching for something that I don&amp;rsquo;t think they (or anyone) can ever find.&#xA;The tension is &amp;hellip; tense&lt;/p&gt;&#xA;&lt;p&gt;So what am I to do? What to make of all these truth seekers? What are those damn philosophers up to?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>No Such Thing as the Right OS!</title>
+      <link>http://localhost:1313/posts/therightos/</link>
+      <pubDate>Thu, 20 Feb 2025 12:10:04 -0800</pubDate>
+      <guid>http://localhost:1313/posts/therightos/</guid>
+      <description>&lt;p&gt;I am here to quickly dispel the myth that there is an objective &amp;ldquo;best&amp;rdquo; operating system.&lt;/p&gt;&#xA;&lt;p&gt;If there were &amp;ldquo;an ideal&amp;rdquo; operating system, everyone would be using Arch Linux, obviously. Sadly, we are far from that reality&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s my theory of operating system usage:&lt;/p&gt;&#xA;&lt;p&gt;People use an OS that best fits their profession, practice, or prolivities. That&amp;rsquo;s right, I&amp;rsquo;m an operating system relativist!&#xA;This realization came in a moment of unbounded rage that comes with devloping software anywhere &lt;em&gt;close&lt;/em&gt; to a Micro**** system.&#xA;After failing at the task I had undertaken, I was watching some comforting Jonathen Blow content on youtube.com (shoutout Blow Fan).&#xA;I saw that Jonathen Blow was using Windows! How could any serious developer use Windows! It&amp;rsquo;s proprietary barriers, convoluted APIs, low customizability, and bug filled feature updates all combine to make a development enviornment fit only for masochists.&#xA;But Jonathen Blow is cracked, right? He&amp;rsquo;s a smart guy. So why did he use Windows?&#xA;Then it hit me, he&amp;rsquo;s a game developer! Since Windows is the go to OS for gaming, J. Blow would want to test his code in the same enviornment of his end user. Huh.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Goal for my Writing</title>
+      <link>http://localhost:1313/posts/myphilosophy/</link>
+      <pubDate>Wed, 05 Feb 2025 17:35:08 -0800</pubDate>
+      <guid>http://localhost:1313/posts/myphilosophy/</guid>
+      <description>&lt;p&gt;It is a beautiful cloudy day in Southern California, perfect for some writing&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;In the field of ethics, there are two schools of thought that I find interesting.&#xA;They are interesting because both of them go to considerable lengths to justify their own validity/practicality; so much so, that they end up getting away from the question of &amp;ldquo;how should we act?&amp;rdquo;, and start moving towards the question of &amp;ldquo;is there any ground from which we can start answering the question of &amp;ldquo;how should we act?&amp;rdquo;&amp;rdquo;.&#xA;Answering this kind of question, thankfully, pulls us away from the trolley problem and the never ending discussion of extraneous edge cases that populate internet philosophy discourse that (as far as I can tell) sprouts from the lowly schools of consequentialism and utlitarianism.&#xA;Ok, I&amp;rsquo;ll stop blathering and tell you what the two sides of this debate actually are &amp;hellip; drumroll please.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Breath of Air</title>
+      <link>http://localhost:1313/posts/breath-of-air/</link>
+      <pubDate>Tue, 28 Jan 2025 09:35:31 -0800</pubDate>
+      <guid>http://localhost:1313/posts/breath-of-air/</guid>
+      <description>&lt;p&gt;The metallic clattering of the ladder against the plastic inside of my Honda Odyssey suddenly came to a stop.&#xA;I take in a big breath of air.&#xA;What have I been doing for the past 6 hours? Fixing computers &amp;ndash; no, fixing a printer.&lt;/p&gt;&#xA;&lt;p&gt;Wow. What a use of my talents! I got a computer science degree from UC Berkeley and I&amp;rsquo;m using my knowledge of the dark magic of the 21st century to fix a printer? I could be writing the operating system on the most advanced copying machine the world has ever seen, but I spent the last 3 hours fixing a 10 year old printer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome To Apollos Shrine</title>
+      <link>http://localhost:1313/posts/welcome-to/</link>
+      <pubDate>Tue, 21 Jan 2025 15:04:43 -0800</pubDate>
+      <guid>http://localhost:1313/posts/welcome-to/</guid>
+      <description>&lt;p&gt;Welcome to Apollo&amp;rsquo;s Shrine, a dedication to the god of music and logic.&lt;/p&gt;&#xA;&lt;p&gt;I am coming off of a 2 hour Better Call Saul binge, and have to get this post out there in 10 minutes, as I have to leave for work.&#xA;To do that, I must upload the necessary files to my webserver, figure out how to make my nginx serve this hugo website, configure ssl, configure the DNS, and &amp;hellip; I&amp;rsquo;m now realizing &amp;hellip; none of that is gonna happen.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

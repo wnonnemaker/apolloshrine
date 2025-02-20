@@ -3,13 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-17T15:11:48-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/my-first/</loc>
-    <lastmod>2025-01-17T15:11:48-08:00</lastmod>
+    <lastmod>2025-02-20T12:10:04-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-01-17T15:11:48-08:00</lastmod>
+    <lastmod>2025-02-20T12:10:04-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/therightos/</loc>
+    <lastmod>2025-02-20T12:10:04-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/myphilosophy/</loc>
+    <lastmod>2025-02-05T17:35:08-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/breath-of-air/</loc>
+    <lastmod>2025-01-28T09:35:31-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/welcome-to/</loc>
+    <lastmod>2025-01-21T15:04:43-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

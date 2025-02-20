@@ -3,7 +3,7 @@
 	--bg-color: #2e3d47;
 	--border-color: gray;
 	--font-color:gray;
-	--font-family: 'monospace';
+	--font-family: 'Georgia';
 	--link-color: #23f6cc; 
 	--button-bg-color: #777eaf;
 	--font-size: 1.75rem;
@@ -22,21 +22,80 @@ body {
 h1 {
 	text-align: center;
 	margin-bottom: 15px;
-	padding: none;
+	padding: 0;
 }
-ul li a {
+h3 {
+	text-align: center !important;
+	margin-bottom: 15px;
+	padding: 0;
+}
+
+ul {
+	text-align: left;
+      }
+
+a {
 	color: var(--link-color);
 	font-weight: bold;
 	margin: 5px;
 	text-decoration: none;
 }
 
-.container {
-	max-width: 60%;
+.header-flex {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+      }
+      
+.header-container {
+	width: 50%;
 	margin: 0 auto;
-}
+	display: inline-block;
+	margin-left: 25%;
+      }
 
 .header-split {
-	max-width: 50%;
+	width: 90%;
+}
+
+.btn-home {
+	position: relative;
+	right: 7%; 
+	top: 4px;
+	font-size: 2rem;
       }
+
+.container {
+	margin-left: 0;
+}
+
+.apollo {
+	display: inline;
+	width: 20%;
+	height: auto;
+	vertical-align: top;
+	position: relative;
+	top: 50px;
+	left: 3%;
+	margin: 0;
+}
+
+.post {
+	font-size: 1.7rem;
+	width: 70%;
+	margin: 0 auto;
+	position: absolute;
+	left: 5%;
+	right: 0;
+}
+
+.container h1 {
+	font-style: italic;
+}
+
+.centered-md {
+    text-align: center;
+}
+
+
   

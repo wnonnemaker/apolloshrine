@@ -7,8 +7,18 @@
     <link rel="stylesheet" href="/stylesheets/styles.css">
   </head>
   <body>
+  <div class="header-container">
+    <div class = "header-flex"> 
+    {{ if ne .Kind "home" }}
+    <a href="/" class="btn-home"> &lt;- </a>
+    {{ end }}
     <h1> Apollo's Shrine </h1>
+    </div>
     <hr class="header-split"> </hr>
     {{ block "page" . }}{{ end }}
+  </div>
+  {{ if eq .Kind "home" }}
+  <img class = "apollo" src="/images/apollo.jpg"> </img>
+  {{ end }}
   </body>
 </html>

@@ -6,14 +6,35 @@
     <description>Recent content in Posts on Apollos Shrine</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jan 2025 15:11:48 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 12:10:04 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First</title>
-      <link>http://localhost:1313/posts/my-first/</link>
-      <pubDate>Fri, 17 Jan 2025 15:11:48 -0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first/</guid>
+      <title>Therightos</title>
+      <link>http://localhost:1313/posts/therightos/</link>
+      <pubDate>Thu, 20 Feb 2025 12:10:04 -0800</pubDate>
+      <guid>http://localhost:1313/posts/therightos/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>On Propoganda</title>
+      <link>http://localhost:1313/posts/myphilosophy/</link>
+      <pubDate>Wed, 05 Feb 2025 17:35:08 -0800</pubDate>
+      <guid>http://localhost:1313/posts/myphilosophy/</guid>
+      <description>&lt;p&gt;It is a beautiful cloudy day in Southern California, perfect for some writing&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;I feel that it is important that what I put on the internet is (mostly) observational.&#xA;Or at least not anything that is overly preachy or moralistic. Such writing is not productive, and worse yet, it is epistemologically corrupt!&lt;/p&gt;&#xA;&lt;p&gt;In the field of ethics, there are two schools of thought that I find interesting.&#xA;They are interesting because both of them go to considerable lengths to justify their own validity/practicality; so much so, that they end up getting away from the question of &amp;ldquo;how should we act?&amp;rdquo;, and start moving towards the question of &amp;ldquo;is there any ground from which we can start answering the question of &amp;ldquo;how should we act?&amp;rdquo;&amp;rdquo;.&#xA;Answering this kind of question, thankfully, pulls us away from the trolley problem and the never ending discussion of extraneous edge cases that populate internet philosophy discourse that (as far as I can tell) sprouts from the lowly schools of consequentialism and utlitarianism.&#xA;Ok, I&amp;rsquo;ll stop blathering and tell you what the two sides of this debate actually are &amp;hellip; drumroll please.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Breath of Air</title>
+      <link>http://localhost:1313/posts/breath-of-air/</link>
+      <pubDate>Tue, 28 Jan 2025 09:35:31 -0800</pubDate>
+      <guid>http://localhost:1313/posts/breath-of-air/</guid>
+      <description>&lt;p&gt;The metallic clattering of the ladder against the plastic inside of my Honda Odyssey suddenly came to a stop.&#xA;I take in a big breath of air.&#xA;What have I been doing for the past 6 hours? Fixing computers &amp;ndash; no, fixing a printer.&lt;/p&gt;&#xA;&lt;p&gt;Wow. What a use of my talents! I got a computer science degree from UC Berkeley and I&amp;rsquo;m using my knowledge of the dark magic of the 21st century to fix a printer? I could be writing the operating system on the most advanced copying machine the world has ever seen, but I spent the last 3 hours fixing a 10 year old printer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome To Apollos Shrine</title>
+      <link>http://localhost:1313/posts/welcome-to/</link>
+      <pubDate>Tue, 21 Jan 2025 15:04:43 -0800</pubDate>
+      <guid>http://localhost:1313/posts/welcome-to/</guid>
+      <description>&lt;p&gt;Welcome to Apollo&amp;rsquo;s Shrine, a dedication to the god of music and logic.&lt;/p&gt;&#xA;&lt;p&gt;I am coming off of a 2 hour Better Call Saul binge, and have to get this post out there in 10 minutes, as I have to leave for work.&#xA;To do that, I must upload the necessary files to my webserver, figure out how to make my nginx serve this hugo website, configure ssl, configure the DNS, and &amp;hellip; I&amp;rsquo;m now realizing &amp;hellip; none of that is gonna happen.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

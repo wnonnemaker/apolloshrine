@@ -1,7 +1,9 @@
 {{ define "page" }}
 <article class="container">
-  <a href="{{ .CurrentSection.RelPermalink }}">Back to {{ .CurrentSection.Title }}</a>
   <h1>{{ .Title }}</h1>
+  <p style="text-align: center; font-style: italic;"> {{ .Date.Format "January 2, 2006" }} </p>
+  <div class = "post">
   {{ .Content }}
+  </div>
 </article>
 {{ end }}
